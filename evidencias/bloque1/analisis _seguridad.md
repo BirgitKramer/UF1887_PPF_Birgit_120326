@@ -89,3 +89,9 @@ requiere revisión para asegurar una asignación correcta de permisos y accesos.
 Se recomienda aplicar el principio de mínimo privilegio, limitar el uso de
 cuentas administrativas, revisar cuentas activas y reforzar la separación de
 funciones entre perfiles del sistema.
+---
+## 9. Evidencias utilizadas
+- Captura de pantalla del listado de usuarios
+- Captura de los grupos o roles configurados
+- Captura de permisos de al menos 3 usuarios
+- Captura de módulos visibles según perfil
